@@ -1,7 +1,7 @@
 
 DJ4E Samples
 ============
-
+Hi There I am Sean
 This is a set of Django projects that provide free sample code to
 support the www.dj4e.com web site.
 
